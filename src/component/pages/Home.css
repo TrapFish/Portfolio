@@ -1,0 +1,46 @@
+.home-left-panel{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* font-size: 2rem; */
+    line-height: 1;
+}
+
+.home-right-panel{
+    width: 44vw;
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    /* font-size: 2rem; */
+    line-height: 1;
+    float: right;
+    position: relative;
+    /* top: -448px; */
+    bottom: 100vh;
+}
+
+.header-adjustment{
+    position: relative;
+    font-size: 3.5rem;
+}
+
+.para{
+    position: relative;
+    font-size: 1.12rem;
+    color: var(--text-color);
+    left: 1.5rem;
+}
+
+.button-alignment{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2.4rem;
+}

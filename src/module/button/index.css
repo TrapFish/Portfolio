@@ -1,0 +1,25 @@
+.hire-button{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center; 
+  line-height: 1.5;
+  font-size: larger;
+  border: 1px solid;
+}
+
+.view-work-button{
+    background-color: white;
+    color: blue;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center; 
+    line-height: 1.5;
+    font-size: larger;
+    border: 1px solid;
+}
